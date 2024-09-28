@@ -1,2 +1,1 @@
-# Penguins classifaction
- 
+# penguins-classification
